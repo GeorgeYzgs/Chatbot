@@ -18,9 +18,8 @@ public class Chatbot {
     /**
      * @param args the command line arguments
      */
-
     public static void main(String[] args) {
-        greet("Ferlog/5/3#", "2020 AD"); // change it as you need
+        greet("Ferlog/5/3#", "2020 AD"); 
         remindName();
         guessAge();
         count();
